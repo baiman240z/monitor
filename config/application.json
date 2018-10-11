@@ -1,0 +1,6 @@
+{
+  "target": "demo",
+  "from": "no-reply@webstudio.tokyo",
+  "to": "watcher@webstudio.tokyo",
+  "disk-threshold": 80
+}

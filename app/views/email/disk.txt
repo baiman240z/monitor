@@ -1,0 +1,4 @@
+Disk space warning
+{% for warning in warnings %}
+{{warning.path}}: {{warning.per}}%
+{%- endfor %}
